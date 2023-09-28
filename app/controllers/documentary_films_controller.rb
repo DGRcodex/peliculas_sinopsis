@@ -1,0 +1,2 @@
+class DocumentaryFilmsController < ApplicationController
+end
